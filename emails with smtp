@@ -10,7 +10,7 @@ g.login(a,p)
 print("loggin sucessfully")
 g.sendmail(a,b,c)
 g.close()
-print('end')
+ print('end')
 
 
 
